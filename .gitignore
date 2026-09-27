@@ -1,0 +1,9 @@
+# נתונים פרטיים: לא נשמרים בריפו (הריפו ציבורי)
+*.zip
+*_chat.txt
+*.xlsx
+*.csv
+analysis.json
+decisions.json
+*.local.json
+__pycache__/
